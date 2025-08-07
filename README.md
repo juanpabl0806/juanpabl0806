@@ -38,7 +38,12 @@ Manejo de **instrumentación profesional de pruebas eléctricas**, enfocada en d
 | `Simulación AM` | Análisis de señales AM con MATLAB y FFT | ![MATLAB](https://img.shields.io/badge/MATLAB-Used-orange) |
 | `Contador LCD` | Contador cíclico de 0-99 con PIC16F628A y LCD en ensamblador | ![ASM](https://img.shields.io/badge/Assembly-MPLAB-lightgrey) ![PIC](https://img.shields.io/badge/Microcontrolador-PIC16F628A-blue) |
 
+---
+## 📜 Certificaciones
 
+- **Curso de ingles** – SENA
+- **MATLAB Básico** – Universidad Distrital Francisco José de Caldas
+- **Curso de AutoCAD (Básico, Intermedio y Avanzado – 2D y 3D)** – Udemy
 ---
 ## 🚀 Actualmente trabajando en...
 
