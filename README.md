@@ -47,7 +47,8 @@ Manejo de **instrumentación profesional de pruebas eléctricas**, enfocada en d
 
 ## 🔄 Actividad reciente
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=juanpabl0806&theme=github-compact)
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=juanpabl0806&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
