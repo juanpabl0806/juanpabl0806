@@ -30,11 +30,14 @@ Manejo de **instrumentación profesional de pruebas eléctricas**, enfocada en d
 
 ---
 
-## 🚀 Proyectos destacados
+## 📌 Proyectos Destacados
 
-- 🧮 [Contador 0-99 con LCD y PIC16F628A](https://github.com/juanpabl0806/contador-pic)
-- 📡 [Análisis de señales periódicas y Fourier](https://github.com/juanpabl0806/fourier-analisis)
-- 🔁 [Simulación de solitones en caja de agua](https://github.com/juanpabl0806/solitones-caja-agua)
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| `Transformadores Test Lab` | Sistema de monitoreo para pruebas eléctricas | ![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-blue) ![MATLAB](https://img.shields.io/badge/MATLAB-Used-orange) ![Autocad](https://img.shields.io/badge/Autocad-Used-lightgrey) |
+| `Simulación AM` | Análisis de señales AM con MATLAB y FFT | ![MATLAB](https://img.shields.io/badge/MATLAB-Used-orange) |
+| `Simulador de Fallas` | Proyecto para entrenar personal técnico con fallas simuladas | ![Protecciones](https://img.shields.io/badge/Protecciones-Eléctricas-red) ![Autocad](https://img.shields.io/badge/Autocad-Used-lightgrey) |
+
 
 ---
 
