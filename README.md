@@ -1,6 +1,6 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="A_professional_banner_image_for_Juan_Pablo_Pedraza.png" alt="Banner de Juan Pablo Pedraza Contreras">
+  <img src="banner.png" alt="Banner de Juan Pablo Pedraza Contreras">
 </p>
 
 # 👋 ¡Hola! Soy Juan Pablo Pedraza Contreras
