@@ -34,11 +34,34 @@ Manejo de **instrumentación profesional de pruebas eléctricas**, enfocada en d
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| `Transformadores Test Lab` | Sistema de monitoreo para pruebas eléctricas | ![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-blue) ![MATLAB](https://img.shields.io/badge/MATLAB-Used-orange) ![Autocad](https://img.shields.io/badge/Autocad-Used-lightgrey) |
+| `Transformadores Test Lab` | Sistema de monitoreo para pruebas eléctricas | ![MATLAB](https://img.shields.io/badge/MATLAB-Used-orange) ![Autocad](https://img.shields.io/badge/Autocad-Used-lightgrey) |
 | `Simulación AM` | Análisis de señales AM con MATLAB y FFT | ![MATLAB](https://img.shields.io/badge/MATLAB-Used-orange) |
-| `Simulador de Fallas` | Proyecto para entrenar personal técnico con fallas simuladas | ![Protecciones](https://img.shields.io/badge/Protecciones-Eléctricas-red) ![Autocad](https://img.shields.io/badge/Autocad-Used-lightgrey) |
+| `Contador LCD` | Contador cíclico de 0-99 con PIC16F628A y LCD en ensamblador | ![ASM](https://img.shields.io/badge/Assembly-MPLAB-lightgrey) ![PIC](https://img.shields.io/badge/Microcontrolador-PIC16F628A-blue) |
 
 
+---
+## 🚀 Actualmente trabajando en...
+
+- Curso de diseño de transformadores en ABC Transformadores
+- Automatización de mediciones con MATLAB
+- elaboracion de planos de transformadores de diferentes tipos y KVA
+
+---
+## 🌐 Idiomas
+
+- Español (nativo)
+- Inglés (intermedio técnico)
+
+---
+
+## 📫 Contacto
+
+- 📧 Correo institucional: [juanpedrazac@usantotomas.edu.co](mailto:juanpedrazac@usantotomas.edu.co)
+- 📨 También puedes escribirme por aquí en GitHub si es algo técnico o relacionado con proyectos
+
+---
+
+> "Construyo desde lo más simple hasta lo más complejo. La electrónica no solo se piensa, se vive."
 ---
 
 ## 📈 Estadísticas en GitHub
@@ -53,13 +76,4 @@ Manejo de **instrumentación profesional de pruebas eléctricas**, enfocada en d
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=juanpabl0806&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
----
 
-## 📫 Contacto
-
-- 📧 Correo institucional: [juanpedrazac@usantotomas.edu.co](mailto:juanpedrazac@usantotomas.edu.co)
-- 📨 También puedes escribirme por aquí en GitHub si es algo técnico o relacionado con proyectos
-
----
-
-> "Construyo desde lo más simple hasta lo más complejo. La electrónica no solo se piensa, se vive."
