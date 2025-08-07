@@ -68,6 +68,11 @@ Manejo de **instrumentación profesional de pruebas eléctricas**, enfocada en d
 
 > "Construyo desde lo más simple hasta lo más complejo. La electrónica no solo se piensa, se vive."
 ---
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="gyftperfil.gif" alt="Banner de Juan Pablo Pedraza Contreras" width="1000"height="200">
+</p>
+
 
 ## 📈 Estadísticas en GitHub
 
