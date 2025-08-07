@@ -3,7 +3,7 @@
   <img src="banner.png" alt="Banner de Juan Pablo Pedraza Contreras">
 </p>
 
-# 👋 ¡Hola! Soy Juan Pablo Pedraza Contreras
+# Mi perfil 
 
 🎓 Estudiante de **Ingeniería Electrónica** en la Universidad Santo Tomás  
 🏢 Actualmente trabajando en **ABC Transformadores e Ingeniería**  
@@ -41,7 +41,7 @@ Manejo de **instrumentación profesional de pruebas eléctricas**, enfocada en d
 ## 📈 Estadísticas en GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanpabl0806&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabl0806&layout=compact&theme=tokyonight)
+
 
 ---
 
